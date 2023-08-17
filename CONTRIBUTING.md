@@ -49,6 +49,8 @@
 ##### Exemplo commit
 
 `feat: adicionado novo arquivo`
+`feat: adicionado nova pagina`
+`feat: adicionado novo recurso`
 
 
 ## Referências
